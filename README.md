@@ -1,4 +1,4 @@
-# plasma-thrustei
+# plasma-thruster
 [🎥 Watch the plasma thruster demo on YouTube](https://youtube.com/shorts/oka57Q47P-8?feature=share)
 
 <div align="center">
